@@ -5,6 +5,6 @@
       1,
       1
    ],
-   "trialLimit":3,
+   "trialLimit":999999,
    "trialAlert":"După expirarea perioadei de testare, versiunea gratuită a aplicației permite utilizatorului maxim 3 dosare salvate. Pentru a adăuga un dosar nou ștergeți dintre cele existente..."
 }
