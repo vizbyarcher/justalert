@@ -1,0 +1,10 @@
+{
+   "trial":true,
+   "trialEnd":[
+      2022,
+      1,
+      1
+   ],
+   "trialLimit":999999,
+   "trialAlert":"Perioada de test a aplicației JustAlert s-a terminat!"
+}
